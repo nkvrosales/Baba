@@ -54,11 +54,11 @@
 })();
 */
 const messages = [
-    "No uh"
+    "No uh",
     "Dee wag",
     "Wag na lang",
     "Wag na lang talaga",
-    "Hala siya oh",
+    "Hala syaa",
     "Hmmph",
     "Dee wag ho",
     "Dee wag na lng",
